@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @gustafbjorn
-- 👀 I’m interested in Quantitative Finance, tech & the financial markets.
+- 👋 Hi, I’m @gustaf
